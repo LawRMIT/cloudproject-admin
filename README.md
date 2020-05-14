@@ -1,4 +1,4 @@
-# cloudproject
+# Cloud Project
 
 Cloud Computing Project - Admin
 
