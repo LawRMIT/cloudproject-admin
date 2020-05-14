@@ -12,4 +12,8 @@ Cloud Computing Project - Admin
 3. npm start
 
 Admin Email: admin@cloudmoviefinder.com
+
 Admin PW:    adminfinder123
+
+s3656432 - Lawrence Trinh
+s3689472 - Djorenz Cruz
